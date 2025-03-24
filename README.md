@@ -27,9 +27,6 @@ This project investigates forest canopy change over time at NEON field sites in 
 ## 🗓️ Timeline
 See the [project proposal](./project_proposal.md) for a full breakdown.
 
-## 🧾 License
-MIT License or add your preferred license.
-
 ## 🤝 Acknowledgments
 NEON data is provided courtesy of Battelle and the National Science Foundation.
 
