@@ -9,8 +9,8 @@ This project investigates forest canopy change over time at NEON field sites in 
 
 ## 🗂️ Data Sources
 - **NEON CHM Data** ([DP3.30015.001](https://data.neonscience.org/data-products/DP3.30015.001))
-- **NEON Vegetation Indices** ([DP3.30006.001](https://data.neonscience.org/data-products/DP3.30006.001)) – optional
-- **NEON Disturbance Logs** ([DP1.10111.001](https://data.neonscience.org/data-products/DP1.10111.001)) – optional
+- **NEON Vegetation Indices** ([DP3.30006.001](https://data.neonscience.org/data-products/DP3.30006.001))
+- **NEON Disturbance Logs** ([DP1.10111.001](https://data.neonscience.org/data-products/DP1.10111.001))
 - Study area: Colorado NEON sites (e.g., NIWO, CPER, ARIK)
 
 ## 🧠 Methods
